@@ -1,7 +1,7 @@
 fileFormatVersion: 2
-guid: c5988a97953943299b82dd367fbd5da1
+guid: 4a605a17df874a17bd86074b87902086
 labels:
-- gvh_v1.2.19.0
+- gvh_v1.2.20.0
 - gvh
 - gvh_teditor
 timeCreated: 1473798236
@@ -16,7 +16,7 @@ PluginImporter:
       enabled: 0
       settings: {}
     Editor:
-      enabled: 1
+      enabled: 0
       settings:
         DefaultValueInitialized: true
     WindowsStoreApps:
