@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ffa48be76e8844e9b8353c10bd53b50a
+guid: c30406366d9f46d39fea3f05ad98868d
 labels:
 - gvh_v1.2.81.0
 - gvh
@@ -20,7 +20,7 @@ PluginImporter:
   - first:
       Editor: Editor
     second:
-      enabled: 1
+      enabled: 0
       settings:
         DefaultValueInitialized: true
   - first:
